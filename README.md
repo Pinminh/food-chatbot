@@ -137,7 +137,7 @@ docker run --rm -it --gpus all food-chatbot --mode interactive
 │                    LLM GENERATOR                            │
 │                                                             │
 │  ┌────────────────────────────────────────────────────┐     │
-│  │  Qwen2.5-1.5B-Instruct                             │     │
+│  │  Qwen2.5-3B-Instruct                               │     │
 │  │  Query + Context → Natural Response                │     │
 │  └────────────────────────────────────────────────────┘     │
 └─────────────────────────────┬───────────────────────────────┘
